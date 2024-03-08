@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="new_note_dialog_label">New Note</string>
+    <string name="save_btn_label">Save</string>
+    <string name="cancel_btn_label">Cancel</string>
+    <string name="edit_note_dialog_label">Edit Note</string>
+    <string name="empty_note_text">None</string>
+</resources>
